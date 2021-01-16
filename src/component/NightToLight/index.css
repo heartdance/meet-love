@@ -1,0 +1,8 @@
+#night-to-light-mask {
+    position: fixed;
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+
